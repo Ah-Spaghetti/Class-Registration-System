@@ -1,0 +1,13 @@
+{
+    "courses": [
+        {
+            "courseName": "CPSC 210",
+            "courseCost": 120
+        },
+        {
+            "courseName": "CPSC 221",
+            "courseCost": 100
+        }
+    ],
+    "totalCost": 220
+}
